@@ -1,4 +1,4 @@
-import function as f
+import Functions as f
 import InitialFunctions
 
 
